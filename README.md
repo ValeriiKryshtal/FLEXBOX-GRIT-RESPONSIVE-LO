@@ -11,3 +11,5 @@ WHEN you click on the link to the section about my work the UI will send you to 
 WHEN you click on the images of the applications its will redirect you to the google web page for now.
 
 WHEN you resize the page or view the site on various screens and devices I am presented with a responsive layout that adapts to my viewport
+
+Here is the link for deployed app https://valeriikryshtal.github.io/FLEXBOX-MEDIA-QUERIES-CSS-VARIABLES/
