@@ -26,10 +26,6 @@ h1 {
     /*border: 2px solid black;*/
 }
 
-/*nav {
-
-}*/
-
 ul {
     display: flex;
     flex-wrap: wrap;
@@ -131,20 +127,18 @@ main {
     /*border: 5px solid greenyellow;*/
 }
 
-/*.About_me_container p {
-    border: 6px solid black;
-}*/
-
 .About_me_container .info p { 
-   /* margin: 0%;*/
-    text-align: left;
+    margin: auto;
+    text-align: center; 
     border: none;
+    /* border: 6px solid red; */
 }
 
 .info { 
+     display: flex;
     box-sizing: border-box;
-    margin-left: 5%;
-    /*border: 3px solid violet;*/
+    margin: 5%;
+    /* border: 3px solid violet; */
    }
 
 .work_container {    
@@ -205,7 +199,12 @@ h3 {
     text-align: left;
     /*border: 3px solid red;*/
 }
-
+#Val-photo {
+     /* border: 6px solid lightblue; */
+     border-radius: 30px;
+     width: 180px;
+     height: 200px;
+}
 img {
     position: relative;
     box-sizing: border-box;
